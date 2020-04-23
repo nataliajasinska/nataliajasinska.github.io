@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Natalia Jasinska Portfolio",
+    "description": "",
+    "home_page_url": "https://nataliajasinska.github.io/gh-pages",
+    "feed_url": "https://nataliajasinska.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Natalia Jasinska"
+    },
+    "items": [
+    ]
+}
