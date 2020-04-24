@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://nataliajasinska.github.io/nataliajasinska.github.io/about-me.html",
+            "url": "https://nataliajasinska.github.io/nataliajasinska.github.io/about-me.html",
+            "title": "ABOUT ME ",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image\" src=\"https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/3/no-back.png\" alt=\"\" width=\"119\" height=\"159\"> </p>\n<p> </p>",
+            "author": {
+                "name": "Natalia Jasinska"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-24T12:40:37+01:00",
+            "date_modified": "2020-04-24T16:00:15+01:00"
+        },
+        {
             "id": "https://nataliajasinska.github.io/nataliajasinska.github.io/resume.html",
             "url": "https://nataliajasinska.github.io/nataliajasinska.github.io/resume.html",
             "title": "RESUME",
@@ -21,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2020-04-23T21:29:06+01:00",
-            "date_modified": "2020-04-24T12:07:03+01:00"
+            "date_modified": "2020-04-24T12:36:02+01:00"
         },
         {
             "id": "https://nataliajasinska.github.io/nataliajasinska.github.io/project-1.html",

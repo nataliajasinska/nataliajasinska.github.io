@@ -3,12 +3,33 @@
     <title>Natalia Jasinska Portfolio</title>
     <link href="https://nataliajasinska.github.io/nataliajasinska.github.io/feed.xml" rel="self" />
     <link href="https://nataliajasinska.github.io/nataliajasinska.github.io" />
-    <updated>2020-04-24T12:07:53+01:00</updated>
+    <updated>2020-04-24T16:00:21+01:00</updated>
     <author>
         <name>Natalia Jasinska</name>
     </author>
     <id>https://nataliajasinska.github.io/nataliajasinska.github.io</id>
 
+    <entry>
+        <title>ABOUT ME </title>
+        <author>
+            <name>Natalia Jasinska</name>
+        </author>
+        <link href="https://nataliajasinska.github.io/nataliajasinska.github.io/about-me.html"/>
+        <id>https://nataliajasinska.github.io/nataliajasinska.github.io/about-me.html</id>
+
+        <updated>2020-04-24T16:00:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image" src="https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/3/no-back.png" alt="" width="119" height="159"> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>RESUME</title>
         <author>
@@ -17,7 +38,7 @@
         <link href="https://nataliajasinska.github.io/nataliajasinska.github.io/resume.html"/>
         <id>https://nataliajasinska.github.io/nataliajasinska.github.io/resume.html</id>
 
-        <updated>2020-04-24T12:07:03+01:00</updated>
+        <updated>2020-04-24T12:36:02+01:00</updated>
             <summary>
                 <![CDATA[
                     NATALIA JASINSKA As a committed administrative employee I want to developmyself personally and professionally in areas where Ican apply my up-to-date knowledge and experience such Human Resources, Customer Service, office management. EXPERIENCE Aug 2016 - present - Office Manager - Sunbeam Joinery Limited (formerly Smokus Joinery&hellip;
