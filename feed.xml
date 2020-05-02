@@ -3,7 +3,7 @@
     <title>Natalia Jasinska Portfolio</title>
     <link href="https://nataliajasinska.github.io/nataliajasinska.github.io/feed.xml" rel="self" />
     <link href="https://nataliajasinska.github.io/nataliajasinska.github.io" />
-    <updated>2020-04-30T20:58:35+01:00</updated>
+    <updated>2020-05-02T19:38:46+01:00</updated>
     <author>
         <name>Natalia Jasinska</name>
     </author>
@@ -87,15 +87,24 @@
         </content>
     </entry>
     <entry>
-        <title>Project 1</title>
+        <title>Accomplishments</title>
         <author>
             <name>Natalia Jasinska</name>
         </author>
         <link href="https://nataliajasinska.github.io/nataliajasinska.github.io/project-1.html"/>
         <id>https://nataliajasinska.github.io/nataliajasinska.github.io/project-1.html</id>
 
-        <updated>2020-04-23T18:32:27+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-05-02T19:38:39+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image" src="https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/1/IMG-20170701-WA0001.jpg" alt="" width="1170" height="805"></p>
+<p><img class="post__image" src="https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/1/CamScanner-05-02-2020-19.35.32_1.jpg" alt="" width="2292" height="3216"></p>
+            ]]>
+        </content>
     </entry>
 </feed>

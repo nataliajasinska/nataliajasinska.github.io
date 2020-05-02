@@ -5,7 +5,7 @@
     "home_page_url": "https://nataliajasinska.github.io/nataliajasinska.github.io",
     "feed_url": "https://nataliajasinska.github.io/nataliajasinska.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://nataliajasinska.github.io/nataliajasinska.github.io/media/website/Untitled2gi.png",
+    "icon": "https://nataliajasinska.github.io/nataliajasinska.github.io/media/website/Untitled2gimp.png",
     "author": {
         "name": "Natalia Jasinska"
     },
@@ -41,14 +41,16 @@
         {
             "id": "https://nataliajasinska.github.io/nataliajasinska.github.io/project-1.html",
             "url": "https://nataliajasinska.github.io/nataliajasinska.github.io/project-1.html",
-            "title": "Project 1",
+            "title": "Accomplishments",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image\" src=\"https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/1/IMG-20170701-WA0001.jpg\" alt=\"\" width=\"1170\" height=\"805\"></p>\n<p><img class=\"post__image\" src=\"https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/1/CamScanner-05-02-2020-19.35.32_1.jpg\" alt=\"\" width=\"2292\" height=\"3216\"></p>",
             "author": {
                 "name": "Natalia Jasinska"
             },
             "tags": [
             ],
             "date_published": "2020-04-23T18:32:27+01:00",
-            "date_modified": "2020-04-23T18:32:27+01:00"
+            "date_modified": "2020-05-02T19:38:39+01:00"
         }
     ]
 }
