@@ -3,7 +3,7 @@
     <title>Natalia Jasinska Portfolio</title>
     <link href="https://nataliajasinska.github.io/nataliajasinska.github.io/feed.xml" rel="self" />
     <link href="https://nataliajasinska.github.io/nataliajasinska.github.io" />
-    <updated>2020-05-02T20:48:16+01:00</updated>
+    <updated>2020-06-25T14:19:28+01:00</updated>
     <author>
         <name>Natalia Jasinska</name>
     </author>
@@ -87,14 +87,14 @@
         </content>
     </entry>
     <entry>
-        <title>Accomplishments</title>
+        <title>ACCOMPLISHMENTS</title>
         <author>
             <name>Natalia Jasinska</name>
         </author>
         <link href="https://nataliajasinska.github.io/nataliajasinska.github.io/project-1.html"/>
         <id>https://nataliajasinska.github.io/nataliajasinska.github.io/project-1.html</id>
 
-        <updated>2020-05-02T20:48:05+01:00</updated>
+        <updated>2020-06-25T14:19:20+01:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -103,6 +103,8 @@
         <content type="html">
             <![CDATA[
                 <p><img class="post__image" src="https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/1/IMG-20170701-WA0001.jpg" alt="" width="1170" height="805"></p>
+<p><img class="post__image" src="https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/1/Recruitment-strategies-certificate_page.jpg" alt="" width="1241" height="1754"></p>
+<p><img class="post__image" src="https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/1/Wages-and-Benefits-certificate_page.jpg" alt="" width="1241" height="1754"></p>
 <p><img class="post__image" src="https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/1/CamScanner-05-02-2020-19.35.32_1.jpg" alt="" width="2292" height="3216"></p>
             ]]>
         </content>
