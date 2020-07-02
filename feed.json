@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://nataliajasinska.github.io/nataliajasinska.github.io/certificates-2.html",
+            "url": "https://nataliajasinska.github.io/nataliajasinska.github.io/certificates-2.html",
+            "title": "Certificates",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image\" src=\"https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/5/Recruitment-strategies-certificate.pdf\" alt=\"\"><img class=\"post__image\" src=\"https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/5/Recruitment-strategies-certificate_page.jpg\" alt=\"\" width=\"1241\" height=\"1754\"></p>\n<p><img class=\"post__image\" src=\"https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/5/Wages-and-Benefits-certificate_page.jpg\" alt=\"\" width=\"1241\" height=\"1754\"></p>\n<p><img class=\"post__image\" src=\"https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/5/IMG-20170701-WA0001.jpg\" alt=\"\" width=\"1170\" height=\"805\"></p>",
+            "author": {
+                "name": "Natalia Jasinska"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-02T13:00:47+01:00",
+            "date_modified": "2020-07-02T13:01:58+01:00"
+        },
+        {
             "id": "https://nataliajasinska.github.io/nataliajasinska.github.io/about-me.html",
             "url": "https://nataliajasinska.github.io/nataliajasinska.github.io/about-me.html",
             "title": "ABOUT ME ",
@@ -43,14 +57,14 @@
             "url": "https://nataliajasinska.github.io/nataliajasinska.github.io/project-1.html",
             "title": "ACCOMPLISHMENTS",
             "summary": " ",
-            "content_html": "<p><img class=\"post__image\" src=\"https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/1/IMG-20170701-WA0001.jpg\" alt=\"\" width=\"1170\" height=\"805\"></p>\n<p><img class=\"post__image\" src=\"https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/1/Recruitment-strategies-certificate_page.jpg\" alt=\"\" width=\"1241\" height=\"1754\"></p>\n<p><img class=\"post__image\" src=\"https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/1/Wages-and-Benefits-certificate_page.jpg\" alt=\"\" width=\"1241\" height=\"1754\"></p>\n<p><img class=\"post__image\" src=\"https://nataliajasinska.github.io/nataliajasinska.github.io/media/posts/1/CamScanner-05-02-2020-19.35.32_1.jpg\" alt=\"\" width=\"2292\" height=\"3216\"></p>",
+            "content_html": "<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "Natalia Jasinska"
             },
             "tags": [
             ],
             "date_published": "2020-04-23T18:32:27+01:00",
-            "date_modified": "2020-06-25T14:19:20+01:00"
+            "date_modified": "2020-07-02T12:48:00+01:00"
         }
     ]
 }
